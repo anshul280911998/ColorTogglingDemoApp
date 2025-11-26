@@ -1,0 +1,22 @@
+/* 
+  Vehicles.json
+  ColorChangeDemoApp
+
+  Created by luminous on 26/11/25.
+  
+*/
+
+{
+  "vehicles": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "name": "car",
+      "color": "yellow"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000002",
+      "name": "truck",
+      "color": "blue"
+    }
+  ]
+}
